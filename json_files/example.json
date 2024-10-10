@@ -1,0 +1,6 @@
+{
+    "example_1.mp4" : {"tag_1": "company_1", "tag_2": "actress_1", "tag_3": "actress_2"},
+    "example_2.mp4" : {"tag_1": "company_1", "tag_2": "actress_1"},
+    "example_3.mp4" : {"tag_1": "company_2", "tag_2": "actress_1"},
+    "example_4.mp4" : {"tag_1": "company_3", "tag_2": "actress_2", "tag_3": "actress_3", "tag_4": "actress_4"}
+}
