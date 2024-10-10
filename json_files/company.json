@@ -1,0 +1,15 @@
+{
+  "company1":
+  {
+    "movie1":
+    [
+      "actor1",
+      "actor2"
+    ],
+    "movie2":
+    [
+      "actor1",
+      "actor2"
+    ]
+  }
+}
