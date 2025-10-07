@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "path": "/absolute/path/to/contracts/contract_001.pdf",
+      "tags": [
+        {
+          "category": "Type",
+          "name": "Contract"
+        },
+        {
+          "category": "Client",
+          "name": "Acme"
+        },
+        {
+          "category": "Year",
+          "name": "2024"
+        }
+      ]
+    },
+    {
+      "path": "/absolute/path/to/contracts/contract_002.pdf",
+      "tags": [
+        {
+          "category": "Type",
+          "name": "Contract"
+        },
+        {
+          "category": "Client",
+          "name": "Globex"
+        },
+        {
+          "category": "Year",
+          "name": "2025"
+        }
+      ]
+    },
+    {
+      "path": "/absolute/path/to/invoices/invoice_2025_09_acme.xlsx",
+      "tags": [
+        {
+          "category": "Type",
+          "name": "Invoice"
+        },
+        {
+          "category": "Client",
+          "name": "Acme"
+        },
+        {
+          "category": "Year",
+          "name": "2025"
+        },
+        {
+          "category": "Month",
+          "name": "09"
+        }
+      ]
+    },
+    {
+      "path": "/absolute/path/to/reports/Q3_summary.docx",
+      "tags": [
+        {
+          "category": "Type",
+          "name": "Report"
+        },
+        {
+          "category": "Quarter",
+          "name": "Q3"
+        },
+        {
+          "category": "Year",
+          "name": "2025"
+        }
+      ]
+    }
+  ]
+}
